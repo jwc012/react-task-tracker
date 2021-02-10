@@ -5,12 +5,6 @@
       "text": "Last Day At Experian",
       "day": "Feb 11th @ 2PM",
       "reminder": true
-    },
-    {
-      "id": 2,
-      "text": "First Day at Acorns",
-      "day": "Feb 22th @ 9AM",
-      "reminder": true
     }
   ]
 }
